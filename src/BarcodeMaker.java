@@ -1,5 +1,5 @@
 // Name: Joshua Francis
-// Course: CSC 135
+// Course: CSC 135 
 // Project: FinalProject_Francis_Joshua
 // File Name: BarcodeMaker.java
 
